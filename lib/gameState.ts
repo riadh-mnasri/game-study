@@ -1,6 +1,6 @@
 import { ProfileId, ProfileStats, Subject, SubjectProgress } from "./types";
 
-const STORAGE_KEY = "eduquest_stats";
+const STORAGE_KEY = "rirousassland_stats";
 
 const defaultSubject = (): SubjectProgress => ({
   xp: 0,
