@@ -23,7 +23,7 @@ export default function RootLayout({
     <html lang="fr" className={`${nunito.variable} h-full antialiased`}>
       <body className="min-h-full flex flex-col" style={{ fontFamily: "var(--font-nunito), sans-serif" }}>
         {children}
-        <footer className="text-center py-3 text-xs font-semibold" style={{ color: "rgba(255,255,255,0.35)" }}>
+        <footer className="fixed bottom-0 left-0 right-0 text-center py-1.5 text-xs font-bold z-50" style={{ background: "rgba(0,0,0,0.45)", color: "rgba(255,255,255,0.8)", backdropFilter: "blur(6px)" }}>
           © {new Date().getFullYear()} Riadh MNASRI — RirousassLand
         </footer>
       </body>
