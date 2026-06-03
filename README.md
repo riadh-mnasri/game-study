@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 EduQuest — L'Aventure du Savoir
+# 🎓 RirousassLand — L'Aventure du Savoir
 
 **Application éducative gamifiée pour enfants**  
 Maths · Français · Anglais · Grande Section → 5ème
@@ -17,7 +17,7 @@ Maths · Français · Anglais · Grande Section → 5ème
 
 ## ✨ Présentation
 
-EduQuest transforme les révisions scolaires en véritable jeu d'aventure. Chaque enfant a son profil personnalisé, gagne des XP, débloques des badges et monte de niveau — tout en apprenant les maths, le français et l'anglais.
+RirousassLand transforme les révisions scolaires en véritable jeu d'aventure. Chaque enfant a son profil personnalisé, gagne des XP, débloques des badges et monte de niveau — tout en apprenant les maths, le français et l'anglais.
 
 Conçu pour **3 niveaux simultanés** dans la même famille :
 

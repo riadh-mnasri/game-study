@@ -10,7 +10,7 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  title: "EduQuest — L'aventure du savoir",
+  title: "RirousassLand — L'aventure du savoir",
   description: "Application éducative ludique pour Syma, Sany et Seji",
 };
 

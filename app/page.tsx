@@ -45,7 +45,7 @@ export default function Home() {
         >
           <div className="text-7xl mb-4" style={{ animation: "float 3s ease-in-out infinite" }}>🎓</div>
           <h1 className="text-6xl font-black text-white mb-2 drop-shadow-lg tracking-tight">
-            Edu<span className="text-yellow-300">Quest</span>
+            Rirousass<span className="text-yellow-300">Land</span>
           </h1>
           <p className="text-white/80 text-xl font-semibold">L&apos;aventure du savoir commence ici !</p>
         </motion.div>
