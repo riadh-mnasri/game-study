@@ -55,6 +55,38 @@ export const sejiMaths: Exercise[] = [
   // Divers
   { id: "se_m44", question: "PGCD de 24 et 36 ?", options: ["6", "18", "12", "8"], correct: 2 },
   { id: "se_m45", question: "Résoudre : 6x + 4 = 22, x = ?", options: ["2", "4", "3", "5"], correct: 2 },
+
+  // ── Niveau 4ème ────────────────────────────────────────────────
+  { id: "se_m46", question: "Développer : (x + 3)² = ?", options: ["x² + 9", "x² + 6x + 9", "x² + 3x + 9", "2x + 6"], correct: 1 },
+  { id: "se_m47", question: "Factoriser : x² - 9", options: ["(x-3)(x-3)", "(x+9)(x-1)", "(x+3)(x-3)", "(x-9)(x+1)"], correct: 2 },
+  { id: "se_m48", question: "Développer : (2x - 1)(x + 4) = ?", options: ["2x² + 7x - 4", "2x² + 8x - 4", "2x² - 7x - 4", "2x² + 7x + 4"], correct: 0 },
+  { id: "se_m49", question: "√144 = ?", options: ["11", "13", "12", "14"], correct: 2 },
+  { id: "se_m50", question: "√225 = ?", options: ["14", "16", "15", "13"], correct: 2 },
+  { id: "se_m51", question: "√64 = ?", options: ["6", "9", "8", "7"], correct: 2 },
+  { id: "se_m52", question: "Théorème de Pythagore : triangle rectangle, a=3, b=4, c=?", options: ["5", "7", "6", "8"], correct: 0 },
+  { id: "se_m53", question: "Théorème de Pythagore : a=5, b=12, c=?", options: ["11", "14", "13", "15"], correct: 2 },
+  { id: "se_m54", question: "sin(30°) = ?", options: ["√3/2", "1", "1/2", "√2/2"], correct: 2 },
+  { id: "se_m55", question: "cos(60°) = ?", options: ["√3/2", "1", "1/2", "0"], correct: 2 },
+  { id: "se_m56", question: "tan(45°) = ?", options: ["0", "√3", "1/2", "1"], correct: 3 },
+  { id: "se_m57", question: "Dans un triangle rectangle, sin(A) = côté opposé / ?", options: ["côté adjacent", "côté opposé", "hypoténuse", "périmètre"], correct: 2 },
+  { id: "se_m58", question: "Une pièce : P(pile) = 1/2. Proba d'avoir face ?", options: ["1/4", "1/3", "1/2", "2/3"], correct: 2 },
+  { id: "se_m59", question: "Dé à 6 faces : P(obtenir 3) = ?", options: ["1/3", "1/12", "1/6", "1/2"], correct: 2 },
+  { id: "se_m60", question: "P(tirer une carte rouge dans un jeu de 52) = ?", options: ["1/4", "1/3", "1/2", "1/13"], correct: 2 },
+  { id: "se_m61", question: "f(x) = 2x + 3. Quelle est f(4) ?", options: ["9", "12", "11", "10"], correct: 2 },
+  { id: "se_m62", question: "f(x) = 3x - 1. Quelle est f(0) ?", options: ["3", "1", "-1", "0"], correct: 2 },
+  { id: "se_m63", question: "f(x) = x² + 2. Quelle est f(3) ?", options: ["7", "12", "11", "9"], correct: 2 },
+  { id: "se_m64", question: "Pente d'une droite passant par (0,1) et (2,5) ?", options: ["1", "3", "2", "4"], correct: 2 },
+  { id: "se_m65", question: "Développer : (x+5)(x-5) = ?", options: ["x²+25", "x²-10x-25", "x²-25", "x²+10x-25"], correct: 2 },
+  { id: "se_m66", question: "Résoudre : x² = 25, x = ?", options: ["±4", "±6", "±5", "±3"], correct: 2 },
+  { id: "se_m67", question: "3⁻² = ?", options: ["-9", "1/6", "1/9", "-1/9"], correct: 2 },
+  { id: "se_m68", question: "10⁻³ = ?", options: ["0,1", "0,01", "0,001", "0,0001"], correct: 2 },
+  { id: "se_m69", question: "Médiane de : 2, 5, 7, 9, 12 ?", options: ["5", "9", "7", "6"], correct: 2 },
+  { id: "se_m70", question: "Étendue de : 4, 8, 15, 6, 11 ?", options: ["9", "13", "11", "7"], correct: 2 },
+  { id: "se_m71", question: "Factoriser : 2x² + 6x", options: ["2(x+3)", "x(2x+6)", "2x(x+3)", "2(x²+3x)"], correct: 2 },
+  { id: "se_m72", question: "Résoudre : x² - 4 = 0, x = ?", options: ["±1", "±3", "±2", "±4"], correct: 2 },
+  { id: "se_m73", question: "Dans un sac : 3 billes rouges, 2 bleues. P(rouge) = ?", options: ["2/5", "3/2", "3/5", "1/5"], correct: 2 },
+  { id: "se_m74", question: "f(x) = -2x + 4 est une fonction : ?", options: ["Quadratique", "Constante", "Affine", "Exponentielle"], correct: 2 },
+  { id: "se_m75", question: "cos(0°) = ?", options: ["0", "1/2", "1", "√3/2"], correct: 2 },
 ];
 
 export const sejiFrancais: Exercise[] = [
